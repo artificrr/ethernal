@@ -1,2 +1,2 @@
 # ethernal
-js messenger for school project
+just a messenger for the school project
